@@ -33,11 +33,6 @@ python jwecrack.py -t "eyJ0eXAiOiJKV1QiLCJ..." brute --min-length 3 --max-length
 - Python 3.x
 - `jwcrypto`
 
-Install dependencies with:
-```bash
-pip install -r requirements.txt
-```
-
 ## License
 MIT License
 
